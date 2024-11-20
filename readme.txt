@@ -1,12 +1,12 @@
 === User Role Protector ===
 Contributors: subrata-deb-nath
 Tags: admin access, user role, authentication, security
-Requires at least: 4.0
-Tested up to: 5.6.2
-Requires PHP: 5.6
-License: GPL v2
+Requires at least: 5.0
+Tested up to: 6.6
+Stable tag: 1.1.0
+License: GPLv2 
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-Stable tag: trunk
+
 
 Effortlessly block users from accessing the WordPress admin panel by assigning them a custom 'Blocked' role. Simple, effective, and reliable.
 
