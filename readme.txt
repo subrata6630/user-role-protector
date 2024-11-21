@@ -2,7 +2,7 @@
 Contributors: subrata-deb-nath
 Tags: admin access, user role, authentication, security
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.0
 License: GPLv2 
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
